@@ -5,5 +5,5 @@ key features
 
 This project is based on **Heart Risk Analysis** and has been developed by a team of two members:
 
-1. Meet Joshi
-2. Fenil Narola
+1. Meet Joshi (528)
+2. Fenil Narola (537)
