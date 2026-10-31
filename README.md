@@ -1,7 +1,7 @@
 
 
 key features
- its predict heart risk 
+ - its predict heart risk 
 
 This project is based on **Heart Risk Analysis** and has been developed by a team of two members:
 
